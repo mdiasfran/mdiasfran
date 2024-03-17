@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando meus conhecimentos na área de tecnologia.
-- 🎓 Estudando Sistemas para Internet na GRAN Faculdade.
+- 🎓 Estudando Análise e Desenvolvimento de Sistemas na GRAN Faculdade.
 - 🌱 Aprendendo mais sobre JavaScript.
 <!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 
