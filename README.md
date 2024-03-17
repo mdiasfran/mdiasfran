@@ -4,7 +4,7 @@
 
 - 🤔 Explorando meus conhecimentos na área de tecnologia.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na GRAN Faculdade.
-- 🌱 Aprendendo mais sobre JavaScript.
+- 🌱 Aprendendo mais sobre Angular e C#.
 <!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
 
 ## Minhas Skills
